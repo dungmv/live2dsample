@@ -1,0 +1,11 @@
+﻿.utmp
+.vs
+.vscode
+obj
+Build
+Logs
+Temp
+Library
+*.sln
+*.csproj
+.vsconfig
